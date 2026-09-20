@@ -553,6 +553,8 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[YouTube](https://github.com/anaisbetts/mcp-youtube)** - Fetch YouTube subtitles
 - **[Yuga Planner](https://github.com/blackopsrepl/yuga-planner)** - AI Task schedule planning with LLamaIndex and Timefold: breaks down a task description and schedules it around an existing calendar
 
+- **[Zornade](https://github.com/zornade/zornade-mcp)** - Italian cadastral, geospatial and real-estate data: geocoding, parcel profiles, risk and solar layers, valuations and administrative lists. Remote endpoint (https://mcp.zornade.com/mcp) with a free Zornade API key, or self-host via Docker.
+
 ## Clients
 
 - **[MBro](https://github.com/sitbon/magg/blob/main/docs/mbro.md)** - A powerful interactive terminal **M**CP **Bro**wser client with tab completion and automatic documentation that allows you to work with multiple MCP servers, manage tools, and create complex workflows using AI assistants.
